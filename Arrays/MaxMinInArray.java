@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 import java.util.ArrayList;
 
@@ -28,3 +28,6 @@ public class MaxMinInArray {
         // Output: [-5, 8]
     }
 }
+
+
+//problem link: https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
